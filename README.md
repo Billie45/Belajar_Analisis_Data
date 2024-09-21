@@ -10,7 +10,7 @@ git clone https://github.com/Billie45/Belajar_Analisis_data.git
 ```
 2. Navigate to the project directory:
 ```
-cd submission
+cd ./to/path/Belajar_Analisis_data
 ```
 3. Install the required packages listed in the requirements.txt file:
 ```
