@@ -17,9 +17,9 @@ cd submission
 pip install -r requirements.txt
 ```
 4. Run the dashboard using Streamlit:
-``
+```
 streamlit run ./dashboard/dashboard.py
-``
+```
 5. Access the dashboard using web browser at:
 ```
 http://localhost:8501
