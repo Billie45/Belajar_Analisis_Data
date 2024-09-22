@@ -6,11 +6,11 @@ To set up and run the dashboard locally, follow these steps:
 
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/Billie45/Belajar_Analisis_data.git
+git clone https://github.com/Billie45/Belajar_Analisis_Data.git
 ```
 2. Navigate to the project directory:
 ```
-cd ./to/path/Belajar_Analisis_data
+cd ./to/path/Belajar_Analisis_Data
 ```
 3. Install the required packages listed in the requirements.txt file:
 ```
