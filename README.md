@@ -66,4 +66,3 @@ Explore and analyze the bike rental data using the notebook.ipynb. This analysis
 Run the Streamlit dashboard for interactive visual exploration of the data. This give visual about weekday vs. weekend, holiday effects, and a comparison between casual and registered users.
 
 ## License
-This project is licensed under the MIT License.
